@@ -1,0 +1,21 @@
+{
+  "name": "mocha-chai-unit-test-javascript-lesson",
+  "version": "1.0.0",
+  "description": "Sample unit test using Mocha and Chai. From SitePoint tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mocha",
+    "Chai",
+    "JavaScript",
+    "SitePoint"
+  ],
+  "author": "CodeWritingCOw",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
